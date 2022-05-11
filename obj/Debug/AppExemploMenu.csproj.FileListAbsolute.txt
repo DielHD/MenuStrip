@@ -1,0 +1,16 @@
+H:\visual02\AppExemploMenu\bin\Debug\AppExemploMenu.exe.config
+H:\visual02\AppExemploMenu\bin\Debug\AppExemploMenu.exe
+H:\visual02\AppExemploMenu\bin\Debug\AppExemploMenu.pdb
+H:\visual02\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.AssemblyReference.cache
+H:\visual02\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.SuggestedBindingRedirects.cache
+H:\visual02\AppExemploMenu\obj\Debug\AppExemploMenu.Frm_01.resources
+H:\visual02\AppExemploMenu\obj\Debug\AppExemploMenu.Frm_02.resources
+H:\visual02\AppExemploMenu\obj\Debug\AppExemploMenu.Frm_03.resources
+H:\visual02\AppExemploMenu\obj\Debug\AppExemploMenu.Properties.Resources.resources
+H:\visual02\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.GenerateResource.cache
+H:\visual02\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.CoreCompileInputs.cache
+H:\visual02\AppExemploMenu\obj\Debug\AppExemploMenu.exe
+H:\visual02\AppExemploMenu\obj\Debug\AppExemploMenu.pdb
+H:\visual02\AppExemploMenu\bin\Debug\dje-NE\AppExemploMenu.resources.dll
+H:\visual02\AppExemploMenu\obj\Debug\AppExemploMenu.Frm_03.dje-NE.resources
+H:\visual02\AppExemploMenu\obj\Debug\dje-NE\AppExemploMenu.resources.dll
